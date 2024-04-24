@@ -1,1 +1,2 @@
-# affinity_app
+# my_affinity_app
+
